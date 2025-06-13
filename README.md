@@ -51,11 +51,13 @@ Projeto/
 │   ├── gradEstoc.py
 │   └── gradMiniBatch.py
 │
-├── main.py           # Script principal com experimentos
+├── main.py
 ├── README.md         
 └── documento/
-    └── Resposta.pdf   # Seu relatório
-    └── Questionário.pdf   # Seu relatório
+    └── Resposta.pdf
+    └── Questionário.pdf
+    └── Resposta.docx
+    └── Questionário.docx
 ```
 
 ## Observações
